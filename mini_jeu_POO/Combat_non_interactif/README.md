@@ -32,61 +32,6 @@ Players take turns attacking each other until one player is defeated.
 
 The game announces the winner and ends.
 
-Example Output
-
-Pikachu provoque Salamèche !
-
-Ecris fight pour combattre !
-fight
-
-Salamèche veut taper son tête
-
-Début du combat !
-
-Pikachu provoque Salamèche !
-
-Ecris fight pour combattre !
-fight
-
-Salamèche veut taper son tête
-
--------------------------
-     DEBUT DU COMBAT
--------------------------
-
-Points de vie des Pokémons :
-Pikachu a 10 points de vie
-Salamèche a 10 points de vie
-
-         ROUND 1
-----------------------------
-Pikachu :'Tu vas mourrir !'
-Pikachu attaque Salamèche
-il lui inflige 5 points de dommages
-------------------------------------------
-Salamèche :'Prend-ça !'
-Salamèche attaque Pikachu
-il lui inflige 5 points de dommages
-
-Points de vie des Pokémons :
-Pikachu a 5 points de vie
-Salamèche a 5 points de vie
-
-         ROUND 2
-----------------------------
-Pikachu :'Tu vas mourrir !'
-Pikachu attaque Salamèche
-il lui inflige 2 points de dommages
-------------------------------------------
-Salamèche :'Prend-ça !'
-Salamèche attaque Pikachu
-il lui inflige 6 points de dommages
-Pikachu à perdu sont tête à tête !
-
------------------------
-     FIN DU COMBAT
------------------------
-
 Author
 
 Rémy Schreiner
